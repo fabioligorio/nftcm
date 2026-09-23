@@ -1,0 +1,8 @@
+*
+!package.json
+!package-lock.json
+!tsconfig.json
+!vercel.json
+!apps/
+!apps/web/
+!apps/web/**
